@@ -48,11 +48,5 @@ public class RickshawFare
        System.out.println("the total fare is\t"+tot);
        System.out.println("the total fare after surcharge is\t"+surcharge);
        
-       
-       
-       
-       
-       
-       
     }
 }
